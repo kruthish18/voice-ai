@@ -2,13 +2,17 @@
 
 A minimal, full-stack voice-based assistant that listens, understands, and responds — all in one go. Built in a day using browser APIs and OpenAI’s Whisper and GPT models.
 
+<img width="1197" height="611" alt="Venting_Listener" src="https://github.com/user-attachments/assets/56462749-17bd-43f4-aed2-5e384f19bde8" />
+
+
 ## Features
 
 * Record audio from the microphone
     
 * Transcribe speech to text using OpenAI Whisper
     
-* Send transcript to OpenAI GPT for empathetic, supportive replies
+* Send transcript to OpenAI GPT for empathetic, supportive replies![Uploading Venting-Listener.png…]()
+
     
 * Convert response text to speech using browser TTS
     
